@@ -1,6 +1,6 @@
 Item, Quantity, Cost, Source
-3d printed parts, 1, $63, https://robu.in/product/3d-printing-service1
-Arduino Uno Q, 1, $72, https://robu.in/product/official-arduino-uno-q/
+3d printed parts + shipping, 1, $32, https://printlegion.hackclub.com/
+Arduino Uno Q (checked for cheaper alternatives like luckfox and other stuff but nothing is in stock or is way more expensive for eg luckfox pico max + uno r4 is 79; pi zeros are out of stock everywhere + i need 2gb ram to run cv and ros), 1, $72, https://robu.in/product/official-arduino-uno-q/
 Mini Breadboards, 4, $2, https://robu.in/product/170-pts-mini-breadboard-syb-170-black/
 MG996R, 4, $15.5, https://robu.in/product/towerpro-mg996r-digital-high-torque-servo-motor/
 MG90S, 3, $8.5, https://robu.in/product/mg90s-9g-servo-metal-gear/
@@ -9,5 +9,6 @@ KCD1 Rocker Switch, 1, $0.5, https://robu.in/product/1-month-warranty-585/
 6203 Bearing, 10, $4.8, https://www.amazon.in/HCH-17x40x12MM-RUBBER-BEARINGS-6203-2RS/dp/B0794MR2W7/ref=sr_1_9?crid=VSJC67IBOTV3&dib=eyJ2IjoiMSJ9.6JaJFf0ZNdv-PLjgghpTSjGV37gKybxms5y9Cf-H_rWVEWoSkSdCfHCqp1G9Al7lCZsLwcvCPgJeBJoYus8HcYbGtgpnkcwBY9L_ZuYi6TptuBnQ6IvvnGEYrgxJOkIETNQFz1zemHCBFa0MO8dwq5HbDhtauM7F-MDIfKUEjGmzeqAAlVVQ_2GUPkDjyC3FMwMfZ-K53OdYIQb-XFrV89CAZVjjs_pnUmCv40cjccoynZSDeD-byCeB8qEv8aCWQroaOXaAI3PpbqnJOHOoM5PYBO-XmKbQzk6EvxApW3s.dv4uSTlZfYZV09qwmGihMghYauhuDkv_2AVY0wCRqTY&dib_tag=se&keywords=6203+bearing&qid=1785921998&sprefix=6203%2Caps%2C379&sr=8-9
 USB C Cable, 1, $4.2, -
 Webcam, 1, $14, https://www.amazon.in/Zebronics-Auto-White-Balance-Auto-Exposure-FaceTime/dp/B0FLXPZ77B/ref=sr_1_3?crid=2NT9LVHUXRX2U&dib=eyJ2IjoiMSJ9.DkTHLjYfKrR3sgzfg4vEDq7Mo2G2VIYLSwuDvrzMAUlZz6PdkffB5oi1SX4ex9hGS4rW2XI-ARu3vT4G3dTyWm7_8Wwb_urRw5APd2OPga8BgTPpTl-64ENLnTT8ISFtrI1PL45vM2bM6hhCKgDwr1CRkmxEEfUmZ01SHeDmxrmzMeNJKeBShRmHzUm7bI52ZP7hhxDnmo8VAWPGaqz7IsFAQIaeWYLc1PTwdJ8Y1IY.bhDAul5Y2Ec9OXExzKSgzg3fbTXVkvrDd21fibh0XHQ&dib_tag=se&keywords=webcam&qid=1785922614&sprefix=webc%2Caps%2C306&sr=8-3
-USB C Dock, 1, $6.8, https://www.amazon.in/Multiport-Adapter-Compatible-Laptops-Devices/dp/B0CKW9DSWQ/ref=sr_1_15?crid=23CB5VOC2L2ZY&dib=eyJ2IjoiMSJ9.3YfFzRNcaiyhfEIAFbrA9kC63A_D3I7JTGY8HBmujiXBlA8_ZxEtM22rQ21bj5169zq7wu__GP3Ordaw9smJUS9M1zMeHmWgTZgrhBnW3gm0QFXtL8rmhTD9gFp-9VZlF8qO9LHBR3w3HILJwxz4xtJANJvyReNWZi9mD1Wgpirotxaa8YWZhGQEWu2P89R9R_bbsFbLo8PWmb1X-B3_5sBEFq3jKf9MJg_pSXqutMU.BysmH8BwLgQq4tPfbhAKxK7xtu0q7ZDLpz28gcluPoE&dib_tag=se&keywords=usb%2Bc%2Bdock&qid=1785922528&sprefix=usbc%2Bdock%2Caps%2C341&sr=8-15&th=1
-Total, -, $195, -
+USB C Dock (for cam connection to uno q), 1, $6.8, https://www.amazon.in/Multiport-Adapter-Compatible-Laptops-Devices/dp/B0CKW9DSWQ/ref=sr_1_15?crid=23CB5VOC2L2ZY&dib=eyJ2IjoiMSJ9.3YfFzRNcaiyhfEIAFbrA9kC63A_D3I7JTGY8HBmujiXBlA8_ZxEtM22rQ21bj5169zq7wu__GP3Ordaw9smJUS9M1zMeHmWgTZgrhBnW3gm0QFXtL8rmhTD9gFp-9VZlF8qO9LHBR3w3HILJwxz4xtJANJvyReNWZi9mD1Wgpirotxaa8YWZhGQEWu2P89R9R_bbsFbLo8PWmb1X-B3_5sBEFq3jKf9MJg_pSXqutMU.BysmH8BwLgQq4tPfbhAKxK7xtu0q7ZDLpz28gcluPoE&dib_tag=se&keywords=usb%2Bc%2Bdock&qid=1785922528&sprefix=usbc%2Bdock%2Caps%2C341&sr=8-15&th=1
+Zipties, 1, $1, https://www.amazon.in/NUOVI-Resistant-Self-Locking-Mechanism-Self-Lock/dp/B0F2SZX7MH
+Total, -, $168, -
