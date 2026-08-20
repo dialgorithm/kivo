@@ -1,54 +1,43 @@
 # kivo
 
-arduino uno r4 and grove vision ai v2 powered 6 dof pick and place robotic arm
+6-dof pick-and-place robotic arm using on-device vision, inverse kinematics, and servo control
 
-## design
+![kivo 3d view](content/3dview1.png)
 
-the robot is split into three functional layers:
+## demo
 
-| layer          | hardware                                  | job                                                                                 |
-| -------------- | ----------------------------------------- | ----------------------------------------------------------------------------------- |
-| **perception** | grove vision ai module v2 + ov5647 camera | detects/locates the target object, runs the ml model on-device                      |
-| **control**    | arduino uno r4 wifi                       | reads detection results, runs inverse kinematics / motion sequencing, drives servos |
-| **actuation**  | 16-ch servo driver + 4× mg996r + 3× mg90s | physically moves the 6 joints + gripper                                             |
+not yet, need to build still...
 
-power is handled independently of signal wiring: a 2s lipo feeds a ubec that steps down to a servo-safe voltage, isolated from the low-current logic side.
+## how it works
 
-```
-                     ┌─────────────────────┐
-   OV5647 Camera ───►│ Grove Vision AI V2   │
-   (CSI ribbon)       │ (Cortex-M55+Ethos-U55)│
-                     └──────────┬───────────┘
-                                │ I2C (SDA/SCL) or UART
-                                ▼
-                     ┌─────────────────────┐
-                     │  Arduino Uno R4 WiFi │
-                     │  (motion planner)    │
-                     └──────────┬───────────┘
-                                │ I2C (PWM commands)
-                                ▼
-                     ┌─────────────────────┐
-                     │ 16-ch Servo Driver   │
-                     └──┬──┬──┬──┬──┬──┬───┘
-                        ▼  ▼  ▼  ▼  ▼  ▼
-                     J1 J2 J3 J4 J5 J6/Gripper
-                     (4× MG996R, 3× MG90S)
+- detects objects with the grove vision ai module v2 with yolo running on it
+- sends detection data to the arduino uno r4 wifi which calculates joint positions with inverse kinematics then controls 6 joints + holder using a 16-channel servo driver for pwm control
+- servo power rail is run separate from the logic side
 
-   POWER RAIL (separate from signal wiring):
-   2S LiPo 7.4V → Fuse (10A) → UBEC (6V, 8-10A) → Servo Driver V+ rail
-                                                  → (Arduino Vin, see §4)
-```
+## architecture
 
-## CAD
+kivo is split into 3 layers
 
-this is the final 3d mockup of the arm.
+| layer      | hardware                                  | job                                    |
+| ---------- | ----------------------------------------- | -------------------------------------- |
+| perception | grove vision ai module v2 + ov5647        | object detection + target location     |
+| control    | arduino uno r4 wifi                       | inverse kinematics + motion sequencing |
+| actuation  | 16-ch servo driver + 4× mg996r + 3× mg90s | moves the arm + holder                 |
 
-|                                 |                                 |                                 |
-| ------------------------------- | ------------------------------- | ------------------------------- |
-| ![3dview1](content/3dview1.png) | ![3dview2](content/3dview2.png) | ![3dview3](content/3dview3.png) |
+### wiring
 
-stl files are in the `CAD` folder.
+[wiring](content/wiring.png)
 
-## BOM
+## cad
 
-click [here](bom.csv) to view the bill of materials.
+final 3d mockup
+
+|                                   |                                   |                                   |
+| --------------------------------- | --------------------------------- | --------------------------------- |
+| ![3d view 1](content/3dview1.png) | ![3d view 2](content/3dview2.png) | ![3d view 3](content/3dview3.png) |
+
+stl files are in [`cad`](cad)
+
+## bom
+
+full parts list is in [`bom.csv`](bom.csv)
