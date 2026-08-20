@@ -26,7 +26,7 @@ kivo is split into 3 layers
 
 ### wiring
 
-[wiring](content/wiring.png)
+![wiring](content/wiring.png)
 
 ## cad
 
