@@ -1,28 +1,28 @@
-Item, Quantity, Cost, Source
-3d printed parts + shipping, 1, $32, https://printlegion.hackclub.com/
-Arduino Uno R4 wifi, 1, $17, https://www.amazon.in/Original-Arduino%C2%AE-UNO-%E0%A4%8F%E0%A4%95-WiFi/dp/B0F9X19JYB
-Seeed Studio Grove Vision AI Module V2, 1, $22, https://robu.in/product/seeed-studio-grove-vision-ai-module-v2-arm-cortex-m55-ethos-u55-tensorflow-and-pytorch-supported-arduino-raspberry-pi-seeed-studio-xiao-esp-based-dev-board/
-Servo Driver Module, 1, $6, https://robu.in/product/servo-driver-module-shield-16-channel/
-7.4V 2S battery, 1, $15.2, https://robu.in/product/orange-4200mah-2s-35c-7-4v-lithium-polymer-battery-pack-lipo/
-6 V 8–10 A UBEC, 1, $17.8, https://robu.in/product/ubec-8a-6-36v-28s-lipo-esc/
-Fuse Holder, 1, $2, https://www.amazon.in/SHANOLEX-Holder-Plastic-Ceramic-Automotive/dp/B0HBKQHRX6
-10A fuse, 1, $2, https://www.amazon.in/Electronic-Spices-Automotive-Metal-Blade/dp/B0BHHGP522
-2200uF 10V Electrolytic Capacitor, 10, $2, https://robu.in/product/2200uf-10v-electrolytic-capacitor-pack-of-5/
-18AWG Wire, 2m, $1.25, https://robu.in/product/18awg-black-600v200c-single-core-teflon-wire/
-Servo Extension Cable, 2, $6.3, https://www.amazon.in/30CM-Servo-Extension-Cable-Pack/dp/B0FBLG72DJ
-OV5647 Camera, 1, $11.5, https://www.amazon.in/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4
-Mini Breadboards, 4, $2, https://robu.in/product/170-pts-mini-breadboard-syb-170-black/
-MG996R, 4, $15.5, https://robu.in/product/towerpro-mg996r-digital-high-torque-servo-motor/
-MG90S, 3, $8.5, https://robu.in/product/mg90s-9g-servo-metal-gear/
-KCD1 Rocker Switch, 1, $0.5, https://robu.in/product/1-month-warranty-585/
-608ZZ Bearing, 10, $3.2, https://www.amazon.in/Invento-8x22x7mm-Bearings-Robotics-Projects/dp/B01LXLWLFK/ref=sr_1_4?crid=21J4T31EFWXWC&dib=eyJ2IjoiMSJ9.iRLDNzbreuQJQSNR9q8psZVR6yd0_rZlajxcE1ON1x1GeDPUriLGOUPRJ3Ux-070yiu8B6ALDRv7n6nNyjfmGaz9x-UlmIB73nxS9KD9SFQX-jnppuk_gVAIbWjYIFeLzVUPetoJM6f08TXomSrCqbalzprsrSdwhsV7TAs5Zz1UISKc_SROagZUg9tpVYEAxZIXPaMXfLr_uzx7N9_INvTs_-IT_jYXwZQ_ORlTDp23E8hSHlu2bYWvb-KYuTdefTegWU3AvPRqgCewapq-x6J2_eyo0hZUQSVUXolDOYE.BlNx_jJun8gVauzDTxaOSaagfA8HZJX8q4VMxuD3mUU&dib_tag=se&keywords=608ZZ&qid=1785921969&sprefix=608z%2Caps%2C341&sr=8-4
-6203 Bearing, 10, $4.8, https://www.amazon.in/HCH-17x40x12MM-RUBBER-BEARINGS-6203-2RS/dp/B0794MR2W7/ref=sr_1_9?crid=VSJC67IBOTV3&dib=eyJ2IjoiMSJ9.6JaJFf0ZNdv-PLjgghpTSjGV37gKybxms5y9Cf-H_rWVEWoSkSdCfHCqp1G9Al7lCZsLwcvCPgJeBJoYus8HcYbGtgpnkcwBY9L_ZuYi6TptuBnQ6IvvnGEYrgxJOkIETNQFz1zemHCBFa0MO8dwq5HbDhtauM7F-MDIfKUEjGmzeqAAlVVQ_2GUPkDjyC3FMwMfZ-K53OdYIQb-XFrV89CAZVjjs_pnUmCv40cjccoynZSDeD-byCeB8qEv8aCWQroaOXaAI3PpbqnJOHOoM5PYBO-XmKbQzk6EvxApW3s.dv4uSTlZfYZV09qwmGihMghYauhuDkv_2AVY0wCRqTY&dib_tag=se&keywords=6203+bearing&qid=1785921998&sprefix=6203%2Caps%2C379&sr=8-9
-USB C Cable, 1, $4.2, -
-Compact Balance Charger, 1, $3.8, https://robu.in/product/b3ac-compact-balance-charger-2s-3s-lipo/
-XT60 Female Connector, 1, $3.8, https://www.amazon.in/Robocraze-XT60-Female-Connector-Silicon/dp/B0DPZDL158
-XT60 Male Connector, 1, $4.8, https://www.amazon.in/Robocraze-XT60-Male-connector-pack/dp/B0DPZDLKY4
-M3 Screw kit, 1, $4.4, https://www.amazon.in/SS304-Washer-Assortment-Spring-Washers/dp/B0H25QS4C8
-Zipties, 1, $1, https://www.amazon.in/NUOVI-Resistant-Self-Locking-Mechanism-Self-Lock/dp/B0F2SZX7MH
-LiPo safety bag, 1, $6.8, https://www.amazon.in/REES52-Battery-Fireproof-Safety-Charging/dp/B07GKTZW4C
-50cm camera cable, 1, $4.6, https://www.amazon.in/REES52-Ribbon-Camera-Cable-Raspberry/dp/B07MDGMW9S
-Total, -, $203.5, -
+component, qty, cost, why, source
+3d printed parts + shipping (custom mechanical parts), 1, $32, custom chassis mounts brackets and mechanical parts, https://printlegion.hackclub.com/
+arduino uno r4 wifi (microcontroller board), 1, $17, main controller for logic communication and servo commands, https://www.amazon.in/Original-Arduino%C2%AE-UNO-%E0%A4%8F%E0%A4%95-WiFi/dp/B0F9X19JYB
+seeed studio grove vision ai module v2 (ai vision processor), 1, $22, runs ai vision inference and processes camera input, https://robu.in/product/seeed-studio-grove-vision-ai-module-v2-arm-cortex-m55-ethos-u55-tensorflow-and-pytorch-supported-arduino-raspberry-pi-seeed-studio-xiao-esp-based-dev-board/
+16-channel servo driver module (pwm controller), 1, $6, generates pwm signals for multiple servos, https://robu.in/product/servo-driver-module-shield-16-channel/
+7.4v 2s 4200mah lipo (rechargeable battery), 1, $15.2, primary portable power source, https://robu.in/product/orange-4200mah-2s-35c-7-4v-lithium-polymer-battery-pack-lipo/
+6v 8-10a ubec (voltage regulator), 1, $17.8, converts battery voltage to a stable 6v servo supply, https://robu.in/product/ubec-8a-6-36v-28s-lipo-esc/
+fuse holder (inline automotive fuse holder), 1, $2, holds the main protection fuse, https://www.amazon.in/SHANOLEX-Holder-Plastic-Ceramic-Automotive/dp/B0HBKQHRX6
+10a fuse (automotive blade fuse), 1, $2, protects wiring and electronics from overcurrent, https://www.amazon.in/Electronic-Spices-Automotive-Metal-Blade/dp/B0BHHGP522
+2200uf 10v electrolytic capacitor (power smoothing capacitor), 10, $2, buffers servo current spikes and reduces voltage dips, https://robu.in/product/2200uf-10v-electrolytic-capacitor-pack-of-5/
+18awg wire (high-current power wire), 2m, $1.25, carries servo and power-distribution current, https://robu.in/product/18awg-black-600v200c-single-core-teflon-wire/
+30cm servo extension cable (servo signal and power extension), 2, $6.3, extends servo connections to remote actuators, https://www.amazon.in/30CM-Servo-Extension-Cable-Pack/dp/B0FBLG72DJ
+ov5647 (5mp camera module), 1, $11.5, captures images for the vision ai processor, https://www.amazon.in/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4
+170-point mini breadboard (prototyping board), 4, $2, temporary low-current circuit prototyping, https://robu.in/product/170-pts-mini-breadboard-syb-170-black/
+mg996r (high-torque digital servo), 4, $15.5, drives load-bearing joints and high-torque mechanisms, https://robu.in/product/towerpro-mg996r-digital-high-torque-servo-motor/
+mg90s (9g metal-gear servo), 3, $8.5, drives smaller lower-load mechanisms, https://robu.in/product/mg90s-9g-servo-metal-gear/
+kcd1 (rocker power switch), 1, $0.5, provides physical master power control, https://robu.in/product/1-month-warranty-585/
+608zz (8x22x7mm ball bearing), 10, $3.2, supports small shafts and reduces rotational friction, https://www.amazon.in/Invento-8x22x7mm-Bearings-Robotics-Projects/dp/B01LXLWLFK
+6203 (17x40x12mm ball bearing), 10, $4.8, supports larger shafts and higher mechanical loads, https://www.amazon.in/HCH-17x40x12MM-RUBBER-BEARINGS-6203-2RS/dp/B0794MR2W7
+usb-c cable (programming and data cable), 1, $4.2, programming and debugging connection, -
+b3ac compact balance charger (2s/3s lipo charger), 1, $3.8, charges and balances individual lipo cells, https://robu.in/product/b3ac-compact-balance-charger-2s-3s-lipo/
+xt60 female (high-current power connector), 1, $3.8, provides detachable high-current battery connection, https://www.amazon.in/Robocraze-XT60-Female-Connector-Silicon/dp/B0DPZDL158
+xt60 male (high-current power connector), 1, $4.8, mates with the battery-side xt60 connection, https://www.amazon.in/Robocraze-XT60-Male-connector-pack/dp/B0DPZDLKY4
+m3 screw kit (stainless steel fastener assortment), 1, $4.4, mounts servos bearings electronics and 3d-printed parts, https://www.amazon.in/SS304-Washer-Assortment-Spring-Washers/dp/B0H25QS4C8
+zipties (nylon cable ties), 1, $1, secures wiring and prevents cable interference, https://www.amazon.in/NUOVI-Resistant-Self-Locking-Mechanism-Self-Lock/dp/B0F2SZX7MH
+lipo safety bag (fire-resistant battery bag), 1, $6.8, isolates the lipo during charging and storage, https://www.amazon.in/REES52-Battery-Fireproof-Safety-Charging/dp/B07GKTZW4C
+50cm camera cable (ribbon camera cable), 1, $4.6, connects the camera while allowing flexible physical placement, https://www.amazon.in/REES52-Ribbon-Camera-Cable-Raspberry/dp/B07MDGMW9S
+total, -, $203.5, complete estimated build cost, -
